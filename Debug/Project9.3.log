@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Solomia\source\repos\Project9.3\Project9.3\Source.cpp(108,6): warning C4101: 'spec1': unreferenced local variable
+C:\Users\Solomia\source\repos\Project9.3\Project9.3\Source.cpp(167,6): warning C4101: 'mid': unreferenced local variable
+  Project9.3.vcxproj -> C:\Users\Solomia\source\repos\Project9.3\Debug\Project9.3.exe
